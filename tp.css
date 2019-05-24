@@ -176,7 +176,7 @@
         height: auto;
       }
       .description {
-        flex-basis: 60%;
+        flex-basis: 50%;
         &:before {
           transform: skewX(-3deg);
           content: "";
